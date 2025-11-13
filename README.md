@@ -22,7 +22,7 @@ Before running TimeoutBackend, ensure you have [Node.js](https://nodejs.org/) an
  HEAD
 =======
    npm i nodemon uuid mongoose-sequence mongoose jsonwebtoken express-rate-limit express-async-handler express dotenv date-fns cors cookie-parser bcrypt
->>>>>>> refs/remotes/origin/main
+> refs/remotes/origin/main
    ```
 
 ## Configuration
