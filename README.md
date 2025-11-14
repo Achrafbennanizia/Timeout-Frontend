@@ -1,6 +1,4 @@
-# backend
-
-# TimeoutBackend
+# TimeoutFrontend
 
 TimeoutFrontend is a Node.js backend application designed to provide secure and efficient timeout functionality. This application is equipped with essential packages to handle authentication, rate limiting, and database operations seamlessly.
 
